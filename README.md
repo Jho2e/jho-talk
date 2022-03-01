@@ -1,2 +1,0 @@
-# jho-talk
- clone coding
